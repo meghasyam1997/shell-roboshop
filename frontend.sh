@@ -1,4 +1,4 @@
-echo -e "\e[32m>>>>>>> Install Nginx <<<<<<<<<<<\e[0m"
+echo -e "\e[36m>>>>>>> Install Nginx <<<<<<<<<<<\e[0m"
 dnf install nginx -y
 
 echo -e "\e[32m>>>>>>> Enable Nginx <<<<<<<<<<<\e[0m"
